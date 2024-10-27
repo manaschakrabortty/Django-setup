@@ -1,1 +1,2 @@
-first Django set-up 😊😊
+first Django set-up 
+Learning Django from scratch..
